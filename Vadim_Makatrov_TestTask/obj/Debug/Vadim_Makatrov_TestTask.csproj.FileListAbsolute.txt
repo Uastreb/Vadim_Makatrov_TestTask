@@ -1,0 +1,7 @@
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\bin\Debug\Vadim_Makatrov_TestTask.exe.config
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\bin\Debug\Vadim_Makatrov_TestTask.exe
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\bin\Debug\Vadim_Makatrov_TestTask.pdb
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\obj\Debug\Vadim_Makatrov_TestTask.csprojAssemblyReference.cache
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\obj\Debug\Vadim_Makatrov_TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\obj\Debug\Vadim_Makatrov_TestTask.exe
+C:\Users\Вадим\Desktop\TestTask\Vadim_Makatrov_TestTask\Vadim_Makatrov_TestTask\obj\Debug\Vadim_Makatrov_TestTask.pdb
